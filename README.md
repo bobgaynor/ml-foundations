@@ -9,7 +9,7 @@ Focused on experimentation to learn how models make predictions and how differen
 ## Projects
 
 ### 1. Titanic — Classification
-Starting with a dataset to learn how to clean data, create useful features, and train basic classification models.  
+Exploring a dataset to learn how to clean data, create useful features, and train basic classification models.  
 
 ### 2. House Prices — Regression
 Exploring prediction using the House Prices dataset.  
@@ -27,4 +27,4 @@ Will build a simple regression model from scratch in NumPy to understand how pre
 ---
 
 ## Current Status
-In progress — working on the *Titanic* classification project and documenting results.
+In progress — working on the *Titanic* classification and documenting results.
